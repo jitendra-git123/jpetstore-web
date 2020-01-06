@@ -110,7 +110,7 @@ echo "(*******)"
    //    versionName: "2.0.${BUILD_NUMBER}"
    //   )
      
-//	//echo "Demo123 ${newComponentVersionId}"
+//	//echo "Demo12345 ${newComponentVersionId}"
 //	//sleep 25
 //	  step([$class: 'UCDeployPublisher',
 //		deploy: [ createSnapshot: [deployWithSnapshot: true, 
